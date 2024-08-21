@@ -32,4 +32,4 @@ To run the project for enhancing the lunar images using retinexformer model whic
 
 ## Craters detection using YOLO (You Only Look Once)
 
-For crater detection in enhanced images we decided to use YOLOv5 which can be accessed from `YOLOv5.ipynb`
+For crater detection in enhanced images we decided to fine tune over the top of YOLOv8 which can be accessed from `YOLOv8.ipynb`
