@@ -2,6 +2,10 @@
 
  An ML model framework to enhance the analysis of Lunar PSRs, improving image accuracy and insights for lunar exploration.
 
+``````
+Created by team: Entropy
+``````
+
  ## Running the retinexformer model to enhance images
 
 To run the project for enhancing the lunar images using retinexformer model which is taken from [here](https://github.com/caiyuanhao1998/retinexformer):
@@ -29,4 +33,3 @@ To run the project for enhancing the lunar images using retinexformer model whic
 ## Craters detection using YOLO (You Only Look Once)
 
 For crater detection in enhanced images we decided to use YOLOv5 which can be accessed from `YOLOv5.ipynb`
-
