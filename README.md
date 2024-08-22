@@ -32,7 +32,7 @@ To run the project for enhancing the lunar images using retinexformer model whic
 
 The lunar crater image can be shown as:
 
-Lunar Image: ![55_jpg.rf.1ec003195178ff3116f1f0666c9eca72](./public/normal.jpg)
+![55_jpg.rf.1ec003195178ff3116f1f0666c9eca72](./public/normal.jpg)
 
 Lunar Crater Enhanced Image using Retinexformer:
 
