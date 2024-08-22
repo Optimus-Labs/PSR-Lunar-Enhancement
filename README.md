@@ -30,6 +30,14 @@ To run the project for enhancing the lunar images using retinexformer model whic
   python3 retinexformer.py
   ``````
 
+The lunar crater image can be shown as:
+
+Lunar Image: ![55_jpg.rf.1ec003195178ff3116f1f0666c9eca72](./public/normal.jpg)
+
+Lunar Crater Enhanced Image using Retinexformer:
+
+![55_jpg.rf.1ec003195178ff3116f1f0666c9eca72](./public/enhanced.png)
+
 ## Craters detection using YOLO (You Only Look Once)
 
 For crater detection in enhanced images we decided to fine tune over the top of YOLOv8 which can be accessed from `YOLOv8.ipynb`
