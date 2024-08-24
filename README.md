@@ -40,7 +40,7 @@ Lunar Crater Enhanced Image using Retinexformer:
 
 ## Craters detection using YOLO (You Only Look Once)
 
-For crater detection in enhanced images we decided to fine tune over the top of YOLOv8 which can be accessed from `YOLOv8.ipynb`
+For crater detection in enhanced images we decided to fine-tune over the top of YOLOv8 which can be accessed from `YOLOv8.ipynb`
 
 The output of crater detected on enhanced image using YOLOv8 can be seen as:
 
